@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Rocket Thrusters-SoundBible.com-1432176431.mp3-2acbacdcd4e9801d2ec3a11ea5916795.mp3str"
+
+[deps]
+
+source_file="res://sounds/Rocket Thrusters-SoundBible.com-1432176431.mp3"
+dest_files=[ "res://.import/Rocket Thrusters-SoundBible.com-1432176431.mp3-2acbacdcd4e9801d2ec3a11ea5916795.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

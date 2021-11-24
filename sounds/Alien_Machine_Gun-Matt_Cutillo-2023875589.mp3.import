@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Alien_Machine_Gun-Matt_Cutillo-2023875589.mp3-6558f1d06f6dbe727cf584e7d237d171.mp3str"
+
+[deps]
+
+source_file="res://sounds/Alien_Machine_Gun-Matt_Cutillo-2023875589.mp3"
+dest_files=[ "res://.import/Alien_Machine_Gun-Matt_Cutillo-2023875589.mp3-6558f1d06f6dbe727cf584e7d237d171.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
