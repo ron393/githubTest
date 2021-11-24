@@ -174,6 +174,8 @@ volume_db = -20.1
 visible = false
 position = Vector2( 0.759539, -334.473 )
 scale = Vector2( 0.101, 7.635 )
+position = Vector2( 0.77832, -380.473 )
+scale = Vector2( 0.101, 9 )
 texture = ExtResource( 3 )
 
 [node name="LazerTimer" type="Timer" parent="Rocket/Lazer"]
@@ -188,6 +190,7 @@ wait_time = 0.101
 autostart = true
 
 [node name="Area2D" type="Area2D" parent="Rocket/Lazer"]
+position = Vector2( -1.95508, -0.767702 )
 collision_layer = 2
 collision_mask = 2
 monitoring = false
