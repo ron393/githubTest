@@ -41,6 +41,7 @@ func _process(delta):
 		self.rect_position.x -=  vx*delta*get_node('/root/moonlander').speedconstant
 		self.rect_position.y -=  vy*delta*get_node('/root/moonlander').speedconstant
 #
+		self.rect_rotation +=  delta * 50
 		#$root/Planet/Ground.position.x += vx*delta*speedconstant
 		#$root/Planet/Ground.position.y += vy*delta*speedconstant
 		
