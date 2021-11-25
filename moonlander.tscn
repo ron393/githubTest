@@ -174,7 +174,7 @@ volume_db = -20.1
 [node name="Lazer" type="Sprite" parent="Rocket"]
 visible = false
 position = Vector2( 0.77832, -380.473 )
-scale = Vector2( 0.101, 20 )
+scale = Vector2( 0.101, 15 )
 texture = ExtResource( 3 )
 
 [node name="LazerTimer" type="Timer" parent="Rocket/Lazer"]
