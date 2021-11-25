@@ -4,7 +4,7 @@ var atoplanet
 var atoplanetx
 var atoplanety
 var arocketblast= 0
-export var Gm = 6 #gravitätskonstante
+export var Gm = 9 #gravitätskonstante
 var r
 var rx
 var ry
