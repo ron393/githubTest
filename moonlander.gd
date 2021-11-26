@@ -65,7 +65,7 @@ func _process(delta):
 		rx= $Planet/Ground.position.x-$Rocket/Rocket.position.x
 		ry= $Planet/Ground.position.y-$Rocket/Rocket.position.y
 		
-		r = sqrt(rx*rx+ry*ry)
+		r = sqrt(pow(rx,2)+pow(ry,2))
 		atoplanet = Gm/(r*r)
 		atoplanetx=0
 		atoplanety=0
